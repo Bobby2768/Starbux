@@ -18,6 +18,6 @@ public class JunitTest {
 }
 	@Test
 	public void test5(){
-		assertTrue("Fail because 1 is not equal 5",1==50);
+		assertTrue("Fail because 1 is not equal 5",1==502);
 	}
 }
